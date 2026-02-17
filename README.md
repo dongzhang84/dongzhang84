@@ -22,7 +22,7 @@
 * 📈 **[trend-monitor](https://github.com/yourusername/trend-monitor)** — Daily & weekly AI/Tech trends from GitHub, Product Hunt & HN, delivered to your inbox
 * 📊 **[stock-monitor](https://github.com/yourusername/stock-monitor)** — Real-time stock monitoring with customizable price alerts
 
----
+<hr>
 
 <!-- ## 🗂️ All Projects
 
