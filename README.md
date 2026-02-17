@@ -22,8 +22,12 @@
 * 📡 **[LaunchRadar](https://your-link.com)** — AI finds Reddit/HN discussions where people need your product, 3-5 high-intent leads daily
 * 🛍️ **[Shopify AI Analyst](https://your-link.com)** — 30 preset questions, instant store insights, no SQL needed
 * ⏰ **[TimeLock](https://your-link.com)** — Auto time-block your Notion tasks into Google Calendar with AI scheduling
-* 📈 **[trend-monitor](https://github.com/yourusername/trend-monitor)** — Daily & weekly AI/Tech trends from GitHub, Product Hunt & HN, delivered to your inbox
-* 📊 **[stock-monitor](https://github.com/yourusername/stock-monitor)** — Real-time stock monitoring with customizable price alerts
+* 📈 **[trend-monitor](https://github.com/dongzhang84/trend-monitor)** — Daily & weekly AI/Tech trends from GitHub, Product Hunt & HN, delivered to your inbox
+* 📊 **[stock-monitor](https://github.com/dongzhang84/stock-monitor)** — Real-time stock monitoring with customizable price alerts
+* 📝 **[SAT Math Smart Question Bank](https://acerocket-sat-math.netlify.app/)** — Adaptive SAT practice with AI-powered question selection and instant explanations
+* 📝 **[ACT Math Smart Question Bank](https://acerocket-act-math.netlify.app/session-selection)** — Adaptive ACT practice with personalized weak-area targeting
+* 📐 **[AP Calculus AB Smart Question Bank](https://acerocket-ap-calculus.netlify.app/ap_calculus_ab/)** — Full AP Calc AB coverage with adaptive difficulty and exam-style practice
+* 📐 **[AP Calculus BC Smart Question Bank](https://acerocket-ap-calculus.netlify.app/ap_calculus_bc/)** — Full AP Calc BC coverage with adaptive difficulty and exam-style practice
 
 
 
