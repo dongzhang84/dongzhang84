@@ -11,9 +11,8 @@
 
 > Building AI-powered tools at speed. Learning in public. Shipping before perfect.
 
----
 
-## 🚀 Current Projects
+## Current Projects
 
 <hr>
 
@@ -24,7 +23,6 @@
 * 📈 **[trend-monitor](https://github.com/yourusername/trend-monitor)** — Daily & weekly AI/Tech trends from GitHub, Product Hunt & HN, delivered to your inbox
 * 📊 **[stock-monitor](https://github.com/yourusername/stock-monitor)** — Real-time stock monitoring with customizable price alerts
 
-<hr>
 
 <!-- ## 🗂️ All Projects
 
@@ -47,6 +45,8 @@
 <!-- --- -->
 
 ### 🔗 Connect
+
+<hr>
 
 [![Twitter](https://img.shields.io/badge/-@snowboat-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/snowboat84)
 [![Blog](https://img.shields.io/badge/-medium.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://medium.com/@dongzhanghz)
