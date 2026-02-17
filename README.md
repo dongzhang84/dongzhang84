@@ -26,7 +26,7 @@
 
 <br/>
 
-### 🔗 Connect
+## 🔗 Connect
 
 <hr>
 
