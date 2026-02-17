@@ -24,25 +24,7 @@
 * 📊 **[stock-monitor](https://github.com/yourusername/stock-monitor)** — Real-time stock monitoring with customizable price alerts
 
 
-<!-- ## 🗂️ All Projects
-
-| # | Name | One-liner | Status |
-|---|------|-----------|--------|
-| 1 | AI Video Assistant | Smart AI video model recommendations | 🟢 Live |
-| 2 | LaunchRadar | Find high-intent leads on Reddit/HN | 💡 Planned |
-| 3 | Shopify AI Analyst | 30 preset questions for store data | 💡 Planned |
-| 4 | TimeLock | Notion → Google Calendar AI scheduler | 🔨 Planned | -->
-
-
-<!-- ---
-
-## 📖 Latest Posts
-
-* [Post title 1](https://your-blog.com) — One line summary
-* [Post title 2](https://your-blog.com) — One line summary
-* [Post title 3](https://your-blog.com) — One line summary -->
-
-<!-- --- -->
+<br/>
 
 ### 🔗 Connect
 
@@ -52,20 +34,3 @@
 [![Blog](https://img.shields.io/badge/-medium.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://medium.com/@dongzhanghz)
 [![LinkedIn](https://img.shields.io/badge/-Dong_Zhang-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dongzhanghz)
 
-<!-- ---
-
-## 🧠 Philosophy
-
-> "Ship beats perfect. The best way to learn vibe coding is to build real things and put them in front of real users." -->
-
----
-<!-- 
-<details>
-<summary>Random Facts</summary>
-
-* Running [X] Claude instances while writing this
-* Powered by [your city]'s coffee culture
-* [Your hobby or fun fact]
-* [Another fun fact]
-
-</details> -->
