@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Current Projects
+### 🚀 Current Projects
 
 * 🎬 **[AI Video Decision Assistant](https://ai-video-assistant-nine.vercel.app/)** — Stop wasting credits testing 10 AI video models. Get smart recommendations before you generate.
 * 📡 **[LaunchRadar](https://your-link.com)** — AI finds Reddit/HN discussions where people need your product, 3-5 high-intent leads daily
@@ -42,9 +42,9 @@
 * [Post title 2](https://your-blog.com) — One line summary
 * [Post title 3](https://your-blog.com) — One line summary -->
 
----
+<!-- --- -->
 
-## 🔗 Connect
+### 🔗 Connect
 
 [![Twitter](https://img.shields.io/badge/-@snowboat-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/snowboat84)
 [![Blog](https://img.shields.io/badge/-medium.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://medium.com/@dongzhanghz)
