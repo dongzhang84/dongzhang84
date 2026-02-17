@@ -2,19 +2,21 @@
 
 📍 Seattle | 🚀 **Startup Founder, Vibe Coder & Indie Builder** | 💡 **Ex-Amazonian & Ex-IBMer**
 
-<!-- [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)](https://stripe.com/)
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/) -->
+[![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/)
+
+
 
 > Building AI-powered tools at speed. Learning in public. Shipping before perfect.
 
 
 ## Current Projects
 
-<hr>
+
 
 * 🎬 **[AI Video Decision Assistant](https://ai-video-assistant-nine.vercel.app/)** — Stop wasting credits testing 10 AI video models. Get smart recommendations before you generate.
 * 📡 **[LaunchRadar](https://your-link.com)** — AI finds Reddit/HN discussions where people need your product, 3-5 high-intent leads daily
@@ -24,11 +26,9 @@
 * 📊 **[stock-monitor](https://github.com/yourusername/stock-monitor)** — Real-time stock monitoring with customizable price alerts
 
 
-<br/>
 
-## 🔗 Connect
+## Connect
 
-<hr>
 
 [![Twitter](https://img.shields.io/badge/-@snowboat-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/snowboat84)
 [![Blog](https://img.shields.io/badge/-medium.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://medium.com/@dongzhanghz)
