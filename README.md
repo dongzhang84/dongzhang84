@@ -19,7 +19,7 @@
 
 
 * 🎬 **[AI Video Decision Assistant](https://ai-video-assistant-nine.vercel.app/)** — Stop wasting credits testing various AI video models. Get smart recommendations before you generate.
-* 📡 **[LaunchRadar](https://your-link.com)** — AI finds Reddit/HN discussions where people need your product, 3-5 high-intent leads daily
+* 📡 **[LaunchRadar]([https://your-link.com](https://github.com/dongzhang84/launchradar)** — AI finds Reddit/HN discussions where people need your product, 3-5 high-intent leads daily
 * 🛍️ **[Shopify AI Analyst](https://your-link.com)** — 30 preset questions, instant store insights, no SQL needed
 * ⏰ **[TimeLock](https://your-link.com)** — Auto time-block your Notion tasks into Google Calendar with AI scheduling
 * 📈 **[trend-monitor](https://github.com/dongzhang84/trend-monitor)** — Daily & weekly AI/Tech trends from GitHub, Product Hunt & HN, delivered to your inbox
