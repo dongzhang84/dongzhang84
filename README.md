@@ -18,7 +18,7 @@
 
 
 
-* 🎬 **[AI Video Decision Assistant](https://ai-video-assistant-nine.vercel.app/)** — Stop wasting credits testing various AI video models. Get smart recommendations before you generate.
+* 🎬 **[AI Video Decision Assistant](https://aivideopick.com/)** — Stop wasting credits testing various AI video models. Get smart recommendations before you generate.
 * 📡 **[LaunchRadar](https://launchradar-five.vercel.app)** — AI finds Reddit/HN discussions where people need your product, 3-5 high-intent leads daily
 * 📊 **[data-analysis-skill](https://github.com/dongzhang84/data-analysis-skill)** — Claude Code skill for end-to-end data analysis.
 * 🛍️ **[Shopify AI Analyst](https://your-link.com)** — 30 preset questions, instant store insights, no SQL needed
