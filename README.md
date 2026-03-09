@@ -21,6 +21,7 @@
 * 🎬 **[AI Video Decision Assistant](https://aivideopick.com/)** — Stop wasting credits testing various AI video models. Get smart recommendations before you generate.
 * 📡 **[LaunchRadar](https://launchradar-five.vercel.app)** — AI finds Reddit/HN discussions where people need your product, 3-5 high-intent leads daily
 * 📊 **[data-analysis-skill](https://github.com/dongzhang84/data-analysis-skill)** — Claude Code skill for end-to-end data analysis.
+* 📊 **[socrates-finds-you](https://github.com/dongzhang84/socrates-finds-you)** — An automated system that finds people who need STEM, AI, and career mentorship.
 * 🛍️ **[Shopify AI Analyst](https://your-link.com)** — 30 preset questions, instant store insights, no SQL needed
 * ⏰ **[TimeLock](https://your-link.com)** — Auto time-block your Notion tasks into Google Calendar with AI scheduling
 * 📈 **[trend-monitor](https://github.com/dongzhang84/trend-monitor)** — Daily & weekly AI/Tech trends from GitHub, Product Hunt & HN, delivered to your inbox
