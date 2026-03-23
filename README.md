@@ -41,8 +41,8 @@ Running a personal OS for indie development — documented in my private [`indie
 **Current workflow stack:**
 - 🤖 5 projects running in parallel, managed with AI agents
 - ⚡ Claude Code for vibe coding execution  
-- 🦞 OpenClaw on Mac Mini for 24/7 project monitoring & daily briefings
-- 📋 Automated morning briefs — what shipped, what's blocked, what's next
+<!-- - 🦞 OpenClaw on Mac Mini for 24/7 project monitoring & daily briefings -->
+<!-- - 📋 Automated morning briefs — what shipped, what's blocked, what's next -->
 
 *Ship before perfect. Learn in public. Let the agents handle the rest.*
 
