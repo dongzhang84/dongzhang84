@@ -32,6 +32,21 @@
 * 📐 **[AP Calculus BC Smart Question Bank](https://acerocket-ap-calculus.netlify.app/ap_calculus_bc/)** — Full AP Calc BC coverage with adaptive difficulty and exam-style practice
 
 
+## How I Build
+
+Running a personal OS for indie development — documented in my private [`indie-product-playbook`](https://github.com/dongzhang84/indie-product-playbook):
+
+> Demand validation → Reverse engineering → Development → Launch → Marketing → Metrics
+
+**Current workflow stack:**
+- 🤖 5 projects running in parallel, managed with AI agents
+- ⚡ Claude Code for vibe coding execution  
+- 🦞 OpenClaw on Mac Mini for 24/7 project monitoring & daily briefings
+- 📋 Automated morning briefs — what shipped, what's blocked, what's next
+
+*Ship before perfect. Learn in public. Let the agents handle the rest.*
+
+
 
 ## Connect
 
