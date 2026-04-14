@@ -22,10 +22,12 @@
 * 📈 **[trend-monitor](https://github.com/dongzhang84/trend-monitor)** — Daily & weekly AI/Tech trends from GitHub, Product Hunt & HN, delivered to your inbox
 * 🎬 **[AI Video Decision Assistant](https://aivideopick.com/)** — Stop wasting credits testing various AI video models. Get smart recommendations before you generate.
 * 📡 **[LaunchRadar](https://github.com/dongzhang84/launchradar)** — AI finds Reddit/HN discussions where people need your product, 3-5 high-intent leads daily
-* 💰 **[ProfitPilot](https://github.com/dongzhang84/profitpilot)** — AI tells Shopify sellers what to do next. No dashboards, just answers.
+* 💰 **[BeProfitly](https://github.com/dongzhang84/profitpilot)** — AI tells Shopify sellers what to do next. No dashboards, just answers.
+* 🎭 **[Doppelgang](https://github.com/dongzhang84/doppelgang)** — Distill real customers into AI sparring partners for sales training. *(private beta)*
 * 🚀 **[GrowPilot](https://github.com/dongzhang84/growpilot)** — SEO on autopilot. Finds buyer keywords, writes content, and tracks what converts.
 * 🎓 **[TeachLoop](https://github.com/dongzhang84/teachloop)** — AI homework recommendations for SAT/AP tutoring centers. Upload questions, run a session, get personalized assignments instantly.
 * 📊 **[data-analysis-skill](https://github.com/dongzhang84/data-analysis-skill)** — Claude Code skill for end-to-end data analysis.
+* 📝 **[ai-profit-system-whitepaper](https://github.com/dongzhang84/ai-profit-system-whitepaper)** — Deep-analysis essays in Chinese on AI, business, education, and space exploration.
 * 🛍️ **[Shopify AI Analyst](https://your-link.com)** — 30 preset questions, instant store insights, no SQL needed
 * ⏰ **[TimeLock](https://your-link.com)** — Auto time-block your Notion tasks into Google Calendar with AI scheduling
 * 📊 **[stock-monitor](https://github.com/dongzhang84/stock-monitor)** — Real-time stock monitoring with customizable price alerts
