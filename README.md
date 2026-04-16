@@ -37,11 +37,6 @@
 * 📐 **[AP Calculus BC Smart Question Bank](https://acerocket-ap-calculus.netlify.app/ap_calculus_bc/)** — Full AP Calc BC coverage with adaptive difficulty and exam-style practice
 
 
-## Blog Posts
-
-* ⛵ **[snowboat-blog](https://github.com/dongzhang84/snowboat-blog)** — My personal blog repo.
-
-
 ## How I Build
 
 Running a personal OS for indie development — documented in my private [`indie-product-playbook`](https://github.com/dongzhang84/indie-product-playbook):
@@ -55,6 +50,11 @@ Running a personal OS for indie development — documented in my private [`indie
 <!-- - 📋 Automated morning briefs — what shipped, what's blocked, what's next -->
 
 *Ship before perfect. Learn in public. Let the agents handle the rest.*
+
+
+## Blog Posts
+
+* ⛵ **[snowboat-blog](https://github.com/dongzhang84/snowboat-blog)** — My personal blog repo.
 
 
 
