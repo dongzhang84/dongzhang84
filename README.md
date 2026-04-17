@@ -50,6 +50,13 @@ Running a personal OS for indie development — documented in my private [`indie
 *Ship before perfect. Learn in public. Let the agents handle the rest.*
 
 
+## Skills
+
+Open-source Claude Code skills I've built for my own workflow:
+
+* ✍️ **[vibe-writing-skills](https://github.com/dongzhang84/vibe-writing-skills)** — Engineer your writing workflow. AI handles fact-checking, proofreading, citation management; you keep topic selection, thesis, judgment, and voice. The soul is yours, the team is AI.
+
+
 ## Blog Posts
 
 * ⛵ **[snowboat-blog](https://github.com/dongzhang84/snowboat-blog)** — My personal blog repo.
