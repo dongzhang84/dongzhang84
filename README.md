@@ -26,7 +26,6 @@
 * 🎭 **[Doppelgang](https://github.com/dongzhang84/doppelgang)** — Distill real customers into AI sparring partners for sales training. *(private beta)*
 * 🚀 **[GrowPilot](https://github.com/dongzhang84/growpilot)** — SEO on autopilot. Finds buyer keywords, writes content, and tracks what converts.
 * 🎓 **[TeachLoop](https://github.com/dongzhang84/teachloop)** — AI homework recommendations for SAT/AP tutoring centers. Upload questions, run a session, get personalized assignments instantly.
-* 📊 **[data-analysis-skill](https://github.com/dongzhang84/data-analysis-skill)** — Claude Code skill for end-to-end data analysis.
 * ⏰ **[TimeLock](https://your-link.com)** — Auto time-block your Notion tasks into Google Calendar with AI scheduling
 * 📊 **[stock-monitor](https://github.com/dongzhang84/stock-monitor)** — Real-time stock monitoring with customizable price alerts
 * 📝 **[SAT Math Smart Question Bank](https://acerocket-sat-math.netlify.app/)** — Adaptive SAT practice with AI-powered question selection and instant explanations
@@ -55,6 +54,7 @@ Running a personal OS for indie development — documented in my private [`indie
 Open-source Claude Code skills I've built for my own workflow:
 
 * ✍️ **[vibe-writing-skills](https://github.com/dongzhang84/vibe-writing-skills)** — Engineer your writing workflow. AI handles fact-checking, proofreading, citation management; you keep topic selection, thesis, judgment, and voice. The soul is yours, the team is AI.
+* 📊 **[data-analysis-skill](https://github.com/dongzhang84/data-analysis-skill)** — Claude Code skill for end-to-end data analysis.
 
 
 ## Blog Posts
