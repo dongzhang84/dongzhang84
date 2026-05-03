@@ -18,7 +18,7 @@
 
 
 
-* 📚 **[Vibe Reading](https://vibe-reading.dev/)** — A reading tool that refuses to summarize until you tell it why you're reading. AI maps your question to chapters; the compression happens in your head.
+* 📚 **[Vibe Reading](https://github.com/dongzhang84/vibe-reading)** — A reading tool that refuses to summarize until you tell it why you're reading. AI maps your question to chapters; the compression happens in your head. [Live demo →](https://vibe-reading.dev/)
 * 💰 **[BeProfitly](https://github.com/dongzhang84/profitpilot)** — AI tells Shopify sellers what to do next. No dashboards, just answers.
 * 🎬 **[AI Video Decision Assistant](https://aivideopick.com/)** — Stop wasting credits testing various AI video models. Get smart recommendations before you generate.
 * 🤖 **[socrates-finds-you](https://github.com/dongzhang84/socrates-finds-you)** — An automated system that finds people who need STEM, AI, and career mentorship.
