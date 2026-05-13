@@ -22,6 +22,7 @@
 * 💰 **[BeProfitly](https://github.com/dongzhang84/profitpilot)** — AI tells Shopify sellers what to do next. No dashboards, just answers.
 * 🎬 **[AI Video Decision Assistant](https://aivideopick.com/)** — Stop wasting credits testing various AI video models. Get smart recommendations before you generate.
 * 🤖 **[socrates-finds-you](https://github.com/dongzhang84/socrates-finds-you)** — An automated system that finds people who need STEM, AI, and career mentorship.
+* 🔬 **[PhysLit](https://github.com/dongzhang84/physlit)** — Pre-registered diagnostic of LLM physics literacy. Binary verdicts via dual-judge + audit, not benchmark scores.
 * 📈 **[trend-monitor](https://github.com/dongzhang84/trend-monitor)** — Daily & weekly AI/Tech trends from GitHub, Product Hunt & HN, delivered to your inbox
 * 📡 **[LaunchRadar](https://github.com/dongzhang84/launchradar)** — AI finds Reddit/HN discussions where people need your product, 3-5 high-intent leads daily
 * 🎭 **[Doppelgang](https://github.com/dongzhang84/doppelgang)** — Distill real customers into AI sparring partners for sales training. *(private beta)*
