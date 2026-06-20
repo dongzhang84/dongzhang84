@@ -20,6 +20,7 @@
 
 * 📚 **[Vibe Reading](https://github.com/dongzhang84/vibe-reading)** — A reading tool that refuses to summarize until you tell it why you're reading. AI maps your question to chapters; the compression happens in your head. [Live demo →](https://vibe-reading.dev/)
 * 🔬 **[PhysLit](https://github.com/dongzhang84/physlit)** — Tests whether frontier LLMs actually understand physics, or just memorized the textbook. v0.1 finding: 70% of failure trials don't realize they failed.
+* 🌀 **[noether-decay](https://github.com/dongzhang84/noether-decay)** — A theory draft framing neural-net training as a dissipative system via a generalized Noether theorem. Learning is the forced breaking of rescaling symmetry; the directions where a Noether charge stays conserved are exactly the blind spots where nothing is learned.
 * 🔭 **[ThalesLab](https://github.com/dongzhang84/thaleslab)** — Exact, interactive physics visualizations — the physics actually runs under the hood, not a pre-rendered animation. First piece: Noether's theorem, symmetry ↔ conservation, live.
 * 💰 **[BeProfitly](https://github.com/dongzhang84/profitpilot)** — AI tells Shopify sellers what to do next. No dashboards, just answers.
 * 🎬 **[AI Video Decision Assistant](https://aivideopick.com/)** — Stop wasting credits testing various AI video models. Get smart recommendations before you generate.
