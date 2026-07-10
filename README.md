@@ -65,6 +65,7 @@ Open-source Claude Code skills I've built for my own workflow:
 ## Blog Posts
 
 * ⛵ **[snowboat-blog](https://github.com/dongzhang84/snowboat-blog)** — My personal blog repo.
+* 📓 **[study_notes](https://github.com/dongzhang84/study_notes)** — Personal study & reading notes across data science, ML, and AI.
 
 
 
