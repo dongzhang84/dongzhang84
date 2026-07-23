@@ -41,6 +41,8 @@
 
 ## How I Build
 
+📊 **[Personal Dashboard →](https://github.com/dongzhang84/personal_dashboard)** — my live command center: every track, project, daily chore & report in one glance.
+
 Running a personal OS for indie development — documented in my private [`indie-product-playbook`](https://github.com/dongzhang84/indie-product-playbook):
 
 > Demand validation → Reverse engineering → Development → Launch → Marketing → Metrics
@@ -48,7 +50,6 @@ Running a personal OS for indie development — documented in my private [`indie
 **Current workflow stack:**
 - 🤖 5 projects running in parallel, managed with AI agents
 - ⚡ Claude Code for vibe coding execution  
-- 📊 [**Personal dashboard**](https://personal-dashboard-sandy-pi.vercel.app/) — live command center: all tracks, projects, daily chores & reports at a glance
 <!-- - 🦞 OpenClaw on Mac Mini for 24/7 project monitoring & daily briefings -->
 <!-- - 📋 Automated morning briefs — what shipped, what's blocked, what's next -->
 
