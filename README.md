@@ -18,7 +18,7 @@
 
 
 
-* 🗺️ **[Geometry Atlas](https://github.com/dongzhang84/geometry-atlas)** — ~300 theorems from three classic geometry books, laid out as an interactive sunburst: projective → affine → Euclidean, each theorem placed in the weakest geometry it actually needs. Every entry records where it came from — extracted from the text, rebuilt from the table of contents, or title only.
+* 🗺️ **[Geometry Atlas](https://github.com/dongzhang84/geometry-atlas)** — ~300 theorems from three classic geometry books, mapped as an interactive projective → affine → Euclidean sunburst.
 * 📚 **[Vibe Reading](https://github.com/dongzhang84/vibe-reading)** — A reading tool that refuses to summarize until you tell it why you're reading. AI maps your question to chapters; the compression happens in your head. [Live demo →](https://vibe-reading.dev/)
 * 🔬 **[PhysLit](https://github.com/dongzhang84/physlit)** — Tests whether frontier LLMs actually understand physics, or just memorized the textbook. v0.1 finding: 70% of failure trials don't realize they failed.
 * ⚡ **[classical_particles](https://github.com/dongzhang84/classical_particles)** — My 2006 undergrad thesis on radiation reaction, re-read twenty years later: it bet on the wrong fix to the Lorentz–Dirac equation, and the experiment it called impossible now has 5σ results.
