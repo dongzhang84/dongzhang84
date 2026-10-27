@@ -18,7 +18,7 @@
 
 
 
-* 🔭 **[Geometry Research](https://github.com/dongzhang84/geometry-research)** — Hunting for new theorems: brute-force scans over point libraries of the triangle and the tetrahedron, then proofs for whatever survives the sieve. Two results so far — a seven-point sphere in a general tetrahedron, and six theorems for orthocentric ones. Now building an interactive geometry lab on top. [Live →](https://geometry-atlas.vercel.app/)
+* 🔭 **[Geometry Research](https://github.com/dongzhang84/geometry-research)** — Discovering new geometry theorems with AI assistants, and building a geometry lab. [Live →](https://geometry-atlas.vercel.app/)
 * 📚 **[Vibe Reading](https://github.com/dongzhang84/vibe-reading)** — A reading tool that refuses to summarize until you tell it why you're reading. AI maps your question to chapters; the compression happens in your head. [Live demo →](https://vibe-reading.dev/)
 * 🔬 **[PhysLit](https://github.com/dongzhang84/physlit)** — Tests whether frontier LLMs actually understand physics, or just memorized the textbook. v0.1 finding: 70% of failure trials don't realize they failed.
 * ⚡ **[classical_particles](https://github.com/dongzhang84/classical_particles)** — My 2006 undergrad thesis on radiation reaction, re-read twenty years later: it bet on the wrong fix to the Lorentz–Dirac equation, and the experiment it called impossible now has 5σ results.
